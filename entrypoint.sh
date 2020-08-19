@@ -26,5 +26,5 @@ fi
 
 # echo $textInput
 
-data='{"attachments": [{"color": "'${1}'","text": "'$textInput'"}],"Content": "$textInput"}'
+data='{"attachments": [{"color": "'${1}'","text": "'$textInput'"}],"Content": "'$textInput'"}'
 curl -X POST -H 'Content-type: application/json' --data "$data" $3
