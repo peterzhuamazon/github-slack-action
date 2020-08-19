@@ -1,3 +1,5 @@
+# This is a fork from novoda for his original github-slack-action
+
 # github-slack-action
 
 The aim of this action is to posts text message to your slack channel that are linked to a validation status. For example, you might want to post a green flagged message for a validation text; or a red flagged message for a warning text.
