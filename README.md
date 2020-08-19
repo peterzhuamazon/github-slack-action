@@ -1,4 +1,4 @@
-## This is a fork from novoda for his original github-slack-action
+## This is a fork from novoda for the original github-slack-action
 
 # github-slack-action
 
